@@ -9,7 +9,7 @@ int main()
   int div=2;  // 인수
   if(n!=1)
   {
-    while(n>1)
+    while(n>1) 
     {
       if(n%div==0)  // 나눠지면 인수 출력
       {
